@@ -1,0 +1,5 @@
+dataset/outputs.csv
+.DS_Store
+dataset/mapping.csv
+dataset/transactions.csv
+dataset/inputs.csv
